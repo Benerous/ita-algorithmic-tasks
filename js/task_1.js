@@ -1,4 +1,5 @@
-// console.log(calculateFirstTask(5));
+// 109
+// Дано натуральне число n. Вирахувати 1*2 + 2*3*4 + 3*4*5*6 + ... + n*(n+1)*...*2n
 
 function calculateFirstTask(n) {
     let result = 0;

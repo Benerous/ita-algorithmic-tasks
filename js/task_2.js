@@ -1,4 +1,5 @@
-// console.log(calculateSecondTask(5));
+// 117 a)
+// Дано натуральне число n. Вирахувати перших n множників: 1/2 * 3/4 * 5/6 * ...
 
 function calculateSecondTask(n) {
     let result = 1;
