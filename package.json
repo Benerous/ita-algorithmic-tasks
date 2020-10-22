@@ -1,0 +1,23 @@
+{
+  "name": "ita-algorithmic-tasks",
+  "version": "1.0.0",
+  "description": "ITA Algorithmic Tasks",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benerous/ita-algorithmic-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benerous/ita-algorithmic-tasks/issues"
+  },
+  "homepage": "https://github.com/Benerous/ita-algorithmic-tasks#readme"
+}

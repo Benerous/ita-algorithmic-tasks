@@ -15,3 +15,11 @@ function calculateFirstTask(n) {
     }
     return result;
 }
+
+// console.log(calculateFirstTask(2));
+// console.log(calculateFirstTask(3));
+// console.log(calculateFirstTask(0));
+// console.log(calculateFirstTask(-2));
+
+module.exports = {calculateFirstTask};
+

@@ -12,3 +12,10 @@ function calculateSecondTask(n) {
     }
     return result;
 }
+
+// console.log(calculateSecondTask(0));
+// console.log(calculateSecondTask(1));
+// console.log(calculateSecondTask(2));
+// console.log(calculateSecondTask(3));
+
+module.exports = {calculateSecondTask};

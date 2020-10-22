@@ -29,3 +29,7 @@ function isPrime(num) {
         if (num % i === 0) return false;
     return num > 1;
 }
+
+console.log(marsennePrime(1000));
+
+module.exports = {marsennePrime};
