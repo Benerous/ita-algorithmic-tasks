@@ -1,10 +1,8 @@
 const {marsennePrime} = require('./task_3');
 
 test(
-    'calculateSecondTask should return mult of members 1/2 * 3/4 * 5/6 * ...',
+    'calculateSecondTask should return number of marsenne',
     () => {
-        // expect(calculateSecondTask(10)).toBe('n is not natural number');
-        // expect(calculateSecondTask(-2)).toBe('n is not natural number');
-        expect(marsennePrime(10)).toBe(Array[3, 7]);
+        expect(marsennePrime(10)).toBe([3, 7]);
     }
 )

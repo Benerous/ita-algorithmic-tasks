@@ -30,6 +30,6 @@ function isPrime(num) {
     return num > 1;
 }
 
-console.log(marsennePrime(1000));
+console.log(marsennePrime(10));
 
 module.exports = {marsennePrime};
